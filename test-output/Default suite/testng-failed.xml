@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="Local_Project.Automation_Epic_Part_3.Test_case_1">
+        <methods>
+          <include name="after_test"/>
+          <include name="after_class"/>
+          <include name="test_1"/>
+          <include name="before_test"/>
+          <include name="test_2"/>
+          <include name="before_class"/>
+        </methods>
+      </class> <!-- Local_Project.Automation_Epic_Part_3.Test_case_1 -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

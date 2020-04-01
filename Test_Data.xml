@@ -1,0 +1,7 @@
+<Test_data>	
+
+	<Chrome_Driver_Directory>C:\\Users\\ahassanm\\Downloads\\chromedriver_win32\\chromedriver.exe</Chrome_Driver_Directory>
+	<Chrome_Driver_Directory>webdriver.chrome.driver</Chrome_Driver_Directory>
+	<Web_site>https://www.google.com</Web_site>
+	
+</Test_data>
